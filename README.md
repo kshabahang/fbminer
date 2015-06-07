@@ -1,0 +1,2 @@
+#fbminer
+# fbminer
